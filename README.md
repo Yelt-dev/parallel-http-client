@@ -10,7 +10,6 @@ Desde un archivo .json con una estructura definida se proceden a realizar multip
 
 Se necesita modificar el archivo: `/src/json/main-request.json`
 Integrar las peticiones con la siguiente estructura:
-La estructura de `data.config.js` es la siguiente:
 
 ```json
 [
